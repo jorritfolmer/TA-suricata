@@ -7,9 +7,12 @@ outputs:
 * alert
 * tls
 
-
 This fills the SSL Activity panel under Protocol Intelligence, and Intrusion Center under Security Domains -> Network in
-Splunk Enterprise Security 
+Splunk Enterprise Security:
+
+![Splunk ES SSL Activity](splunk_es_ssl_activity.png)
+
+![Splunk ES Network Intrusion Center](splunk_es_network_intrusion_center.png)
 
 ## Installation
 
