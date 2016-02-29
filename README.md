@@ -1,6 +1,6 @@
-# Splunk TA for Suricata
+# TA-suricata for Splunk
 
-This CIM compliant Splunk TA can be used with Splunk Enterprise Security and
+This CIM compliant TA can be used with Splunk Enterprise Security and
 provides field extractions, aliases, tags for the following Suricata eve-log
 outputs:
 
@@ -16,8 +16,8 @@ Splunk Enterprise Security:
 
 ## Installation
 
-Install this Splunk TA on your Splunk (Enterprise Security) search head. Make
-sure to rename it Splunk_TA_suricata or TA-suricata otherwise ES won't eat it.
+Install this TA on your Splunk (Enterprise Security) search head. Make
+sure to rename it TA-suricata otherwise ES won't eat it.
 
 ## Configuration 
 
